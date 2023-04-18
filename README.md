@@ -1,4 +1,5 @@
-![result](https://user-images.githubusercontent.com/92135947/232921731-c58b766d-b560-4fd9-a700-5e0acbba4c64.gif)
+
+![result (1)](https://user-images.githubusercontent.com/92135947/232922369-836d238f-1879-4a7b-b9f5-6187a2299693.gif)
 
 [![](https://raw.githubusercontent.com/MayurShastrakar/MayurShastrakar/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://raw.githubusercontent.com/MayurShastrakar/MayurShastrakar/master/profile-summary-card-output/dark/1-repos-per-language.svg)
