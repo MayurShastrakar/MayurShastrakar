@@ -1,5 +1,5 @@
-![Peek 2020-07-09 15-53](![result](https://user-images.githubusercontent.com/92135947/232921638-766d7dce-7aea-4471-9a4f-6d20b23e71b4.gif)
-)
+![result](https://user-images.githubusercontent.com/92135947/232921731-c58b766d-b560-4fd9-a700-5e0acbba4c64.gif)
+
 [![](https://raw.githubusercontent.com/MayurShastrakar/MayurShastrakar/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://raw.githubusercontent.com/MayurShastrakar/MayurShastrakar/master/profile-summary-card-output/dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/MayurShastrakar/MayurShastrakar/master/profile-summary-card-output/great_gatsby/2-most-commit-language.svg)
